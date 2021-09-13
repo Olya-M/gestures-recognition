@@ -3,11 +3,11 @@ This is a Jupyter notebook for gesture recognition and gesture recognition event
 
 The video recognition is performed by [OpenCV](https://opencv.org/) and the hand landmark tracking is done through [MediaPipe](https://google.github.io/mediapipe/solutions/hands.html). The gesture recognition is handled through a simple one hidden layer neural network set up with [Pytorch Lightning](https://www.pytorchlightning.ai/). The device controls are handled through [AutoPy](https://github.com/autopilot-rs/autopy), [pynput](https://pynput.readthedocs.io/en/latest/), and [pycaw](https://github.com/AndreMiras/pycaw).
 
-### The currently recognized hand gestures:
+### The recognized hand gestures:
 
 https://user-images.githubusercontent.com/68296887/133141548-0266426f-5d77-4d56-a495-178969c3d2dc.mp4
 
-### Gesture events that are currently in the notebook:
+### Gesture events:
 In all the videos below, the "spock" gesture (the Vulcan salute) are set as an end gesture that closes the gesture recognition window. Most of the gesture recognitions are currently set up to only be triggered with the right hand for no particular reason. Not all of the gestures are assigned to gesture events.
 
 #### Using a mouse, scrolling, and zooming:
