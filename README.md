@@ -8,7 +8,7 @@ The video recognition is performed by [OpenCV](https://opencv.org/) and the hand
 https://user-images.githubusercontent.com/68296887/133141548-0266426f-5d77-4d56-a495-178969c3d2dc.mp4
 
 ### Gesture events that are currently in the notebook:
-In all the videos below, the "spock" gesture (the Vulcan salute) are set as an end gesture for closing gesture recognition. Most of the gesture recognitions are currently set up to only be triggered with the right hand for no particular reason.
+In all the videos below, the "spock" gesture (the Vulcan salute) are set as an end gesture that closes the gesture recognition window. Most of the gesture recognitions are currently set up to only be triggered with the right hand for no particular reason.
 
 #### Using a mouse, scrolling, and zooming:
 https://user-images.githubusercontent.com/68296887/133141571-9be1a8dd-adea-4a77-992c-3afe618409e6.mp4
